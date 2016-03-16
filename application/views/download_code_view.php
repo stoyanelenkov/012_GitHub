@@ -1,0 +1,1 @@
+<p>Click <a href="<?=  site_url('/login/download_code_now');?>">HERE</a> to download the source code of this web site</p>  
